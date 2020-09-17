@@ -1,0 +1,13 @@
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\bin\Debug\Lab_Work_1.exe.config
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\bin\Debug\Lab_Work_1.exe
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\bin\Debug\Lab_Work_1.pdb
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\obj\Debug\Lab_Work_1.csproj.CoreCompileInputs.cache
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\obj\Debug\Lab_Work_1.exe
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Lab_Work_1\Lab_Work_1\obj\Debug\Lab_Work_1.pdb
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\bin\Debug\Lab_Work_1.exe.config
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\bin\Debug\Lab_Work_1.exe
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\bin\Debug\Lab_Work_1.pdb
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\obj\Debug\Lab_Work_1.csprojAssemblyReference.cache
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\obj\Debug\Lab_Work_1.csproj.CoreCompileInputs.cache
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\obj\Debug\Lab_Work_1.exe
+D:\STUDY_CODING\PROGRAMMING_PRACTICE\C#\HOMEWORK_C#\Task_1. Hierarchy\Lab_Work_1\obj\Debug\Lab_Work_1.pdb
